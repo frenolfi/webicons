@@ -7,11 +7,14 @@ This is a set of SVG icons intended to be used in web applications
     <img src="https://raw.githubusercontent.com/frenolfi/webicons/main/icons/circle-green.svg" height="48" width="48">
     <img src="https://raw.githubusercontent.com/frenolfi/webicons/main/icons/circle-blue.svg" height="48" width="48">
 </p>
+![rma](./icons/rma-green.svg)
 
-Copyright (C) 2018 Federico Renolfi
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-The Creative Commons Attribution 4.0 International license <https://creativecommons.org/licenses/by/4.0/> allows users to copy, modify and distribute data in any format for any purpose, including commercial use. Users are only obligated to give appropriate credit (attribution) and indicate if they have made any changes, including translations.
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+[WebIcons](https://github.com/frenolfi/webicons/) by [Federico Renolfi](https://github.com/frenolfi/) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+The Creative Commons Attribution 4.0 International license allows users to copy, modify and distribute data in any format for any purpose, including commercial use. Users are only obligated to give appropriate credit (attribution) and indicate if they have made any changes, including translations.
 
 
