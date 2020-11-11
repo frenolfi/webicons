@@ -7,7 +7,7 @@ This is a set of SVG icons intended to be used in web applications
     <img src="https://raw.githubusercontent.com/frenolfi/webicons/main/icons/circle-green.svg" height="48" width="48">
     <img src="https://raw.githubusercontent.com/frenolfi/webicons/main/icons/circle-blue.svg" height="48" width="48">
 </p>
-![rma](./icons/rma-green.svg)
+![rma](icons/rma-green.svg)
 
 
 
