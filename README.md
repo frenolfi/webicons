@@ -3,9 +3,9 @@
 This is a set of SVG icons intended to be used in web applications
 
 <p align="center">
-    <img src="https://github.com/frenolfi/webicons/blob/master/icons/circle-red.svg" height="48" width="48">
-    <img src="https://github.com/frenolfi/webicons/blob/master/icons/circle-green.svg" height="48" width="48">
-    <img src="https://github.com/frenolfi/webicons/blob/master/icons/circle-blue.svg" height="48" width="48">
+    <img src="https://github.com/frenolfi/webicons/blob/main/icons/circle-red.svg" height="48" width="48">
+    <img src="https://github.com/frenolfi/webicons/blob/main/icons/circle-green.svg" height="48" width="48">
+    <img src="https://github.com/frenolfi/webicons/blob/main/icons/circle-blue.svg" height="48" width="48">
 </p>
 
 Copyright (C) 2018 Federico Renolfi
